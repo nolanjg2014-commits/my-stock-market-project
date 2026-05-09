@@ -1,0 +1,6 @@
+print("english dictonary will help you with spelling")
+word = input("type you word your having spelling with here: ")
+print(f"you typed {word} right?")
+print("if not restart.")
+print("ok?")
+print("now go to this link:https://www.dictionary.com/")
